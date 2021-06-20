@@ -1,9 +1,9 @@
 # QuizApplication
-In this app i used the following:
-1- kotlin code
-2- one Activity and multiple fragments
-3- Navigation Component to manage the navigation from one fragments to another.
-4- Navigation Drawer >> The navigation drawer is a UI panel that shows your app's main navigation menu. The drawer appears when the user touches the drawer icon  in the app bar or when the user swipes a finger from the left edge of the screen.
+In this app i used the following:	
+1- kotlin code	
+2- one Activity and multiple fragments	
+3- Navigation Component to manage the navigation from one fragments to another.	
+4- Navigation Drawer >> The navigation drawer is a UI panel that shows your app's main navigation menu. The drawer appears when the user touches the drawer icon  in the app bar or when the user swipes a finger from the left edge of the screen.	
 
 ![Screenshot_20210620_171823](https://user-images.githubusercontent.com/19861763/122677598-ab83e680-d1eb-11eb-9596-e4cd05a63362.png)
 
